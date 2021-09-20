@@ -20,4 +20,4 @@ while 1:
           os.system("sudo /home/stevek/run_camera_upload.sh")
           time.sleep(0.5)
           print('photo uploaded')
-
+          os.system("sudo /home/stevek/run_ephoto1.sh")
