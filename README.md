@@ -6,5 +6,8 @@ This also support list available photos and download all to local and display
 
 ![image](https://user-images.githubusercontent.com/85778625/133960026-c3ba6191-5ad7-4755-89f1-fb85a0235ba0.png)
 
+Photo will be taken sync to azure storage account and sync to other raspberry clients, topology as below
+![image](https://user-images.githubusercontent.com/85778625/135751438-3047f4fa-dffa-44b6-b996-10ed491d18e4.png)
+
 reference:
 https://blog.zuehlke.cloud/2019/10/access-azure-blob-storage-with-rest-and-sas/
