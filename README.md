@@ -16,4 +16,6 @@ The displayed image will be sending out Azure face API analysis the mood and add
 
 reference:
 https://blog.zuehlke.cloud/2019/10/access-azure-blob-storage-with-rest-and-sas/
+https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/client-libraries?tabs=visual-studio&pivots=programming-language-python
+https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-detection
 
