@@ -9,5 +9,10 @@ This also support list available photos and download all to local and display
 Photo will be taken sync to azure storage account and sync to other raspberry clients, topology as below
 ![image](https://user-images.githubusercontent.com/85778625/135751438-3047f4fa-dffa-44b6-b996-10ed491d18e4.png)
 
+The displayed image will be sending out Azure face API analysis the mood and adding funny rednose
+![image](https://user-images.githubusercontent.com/85778625/136163414-41f810ef-323a-44d1-bfbc-e990d4ae0e9b.png)
+
+
 reference:
 https://blog.zuehlke.cloud/2019/10/access-azure-blob-storage-with-rest-and-sas/
+
